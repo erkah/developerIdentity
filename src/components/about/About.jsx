@@ -10,7 +10,7 @@ const About = () => {
            
         </div>
         <div className='me br4' >
-             <h2 className='text' >Hola ! I'm  Senior Web Developer who loves to solve real-world problems
+             <h2 className='text' >Hola ! I'm a Software Developer who loves to solve real-world problems
               <span role='img' aria-label="Smiley" >😀 </span>,
               and is seeking to find the opportunity to work in a fun and challenging working environment that will encourage me
                to improve and learn new and necessary skills.I love adventures & taking risks so every second I search for a new thing 

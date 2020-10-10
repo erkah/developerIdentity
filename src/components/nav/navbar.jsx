@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from "react-scroll";
-import  { ReactComponent as Log } from './log.svg';
+import  { ReactComponent as Log } from './logo.svg';
 
 import './navbar.scss';
 
@@ -21,7 +21,7 @@ const Navbar =() => {
     smooth={true}
     offset={0}
     duration= {700}
-><Log/> </Link>
+></Link>
 
           <div className='options' >
           <Link
